@@ -1,7 +1,7 @@
 # CharacterBench: Benchmarking Character Customization of Large Language Models
 
 <p align="center">
-   🤗 <a href="https://huggingface.co/datasets/thu-coai/CharacterBench" target="_blank">Hugging Face</a> • ⏬ <a href="#eval_data" target="_blank">Data</a> •   📃 <a href="https://arxiv.org/pdf/2412.11912" target="_blank">Paper</a>
+   🤗 <a href="https://huggingface.co/thu-coai/CharacterJudge" target="_blank">Hugging Face</a> • ⏬ <a href="#eval_data" target="_blank">Data</a> •   📃 <a href="https://arxiv.org/pdf/2412.11912" target="_blank">Paper</a>
 </p>
 
 ## Data Preparation
