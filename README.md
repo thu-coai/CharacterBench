@@ -36,6 +36,8 @@ bash run_en.sh YOUR_MODEL_NAME
 
 ## Citation
 
+If you find our work useful for your research, please kindly cite our paper as follows:
+
 ```
 @article{characterbench,
   title={CharacterBench: Benchmarking Character Customization of Large Language Models},
@@ -44,3 +46,9 @@ bash run_en.sh YOUR_MODEL_NAME
   year={2025}
 }
 ```
+
+
+## Contact Us
+
+If you have any feedback for our work, please feel free to contact us ✉️ zjf23@mails.tsinghua.edu.cn.
+
