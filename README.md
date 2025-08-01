@@ -39,11 +39,38 @@ bash run_en.sh YOUR_MODEL_NAME
 If you find our work useful for your research, please kindly cite our paper as follows:
 
 ```
-@article{characterbench,
-  title={CharacterBench: Benchmarking Character Customization of Large Language Models},
-  author={Jinfeng Zhou, Yongkang Huang, Bosi Wen, Guanqun Bi, Yuxuan Chen, Pei Ke, Zhuang Chen, Xiyao Xiao, Libiao Peng, Kuntian Tang, Rongsheng Zhang, Le Zhang, Tangjie Lv, Zhipeng Hu, Hongning Wang, Minlie Huang},
-  journal={AAAI},
-  year={2025}
+@inproceedings{DBLP:conf/aaai/ZhouHWBCK0XPTZZ25,
+  author       = {Jinfeng Zhou and
+                  Yongkang Huang and
+                  Bosi Wen and
+                  Guanqun Bi and
+                  Yuxuan Chen and
+                  Pei Ke and
+                  Zhuang Chen and
+                  Xiyao Xiao and
+                  Libiao Peng and
+                  Kuntian Tang and
+                  Rongsheng Zhang and
+                  Le Zhang and
+                  Tangjie Lv and
+                  Zhipeng Hu and
+                  Hongning Wang and
+                  Minlie Huang},
+  editor       = {Toby Walsh and
+                  Julie Shah and
+                  Zico Kolter},
+  title        = {CharacterBench: Benchmarking Character Customization of Large Language
+                  Models},
+  booktitle    = {AAAI-25, Sponsored by the Association for the Advancement of Artificial
+                  Intelligence, February 25 - March 4, 2025, Philadelphia, PA, {USA}},
+  pages        = {26101--26110},
+  publisher    = {{AAAI} Press},
+  year         = {2025},
+  url          = {https://doi.org/10.1609/aaai.v39i24.34806},
+  doi          = {10.1609/AAAI.V39I24.34806},
+  timestamp    = {Thu, 17 Apr 2025 17:08:58 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/ZhouHWBCK0XPTZZ25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
